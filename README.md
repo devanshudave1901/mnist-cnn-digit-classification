@@ -1,3 +1,13 @@
+This project was developed as part of **SFWRTECH/ENGTECH 4AI3 – Artificial Intelligence** at **McMaster University**. The assignment focused on understanding and implementing a Convolutional Neural Network (CNN) for handwritten digit classification using the MNIST dataset.
+
+The assignment consisted of two main components:
+
+**Question 1 – CNN Architecture and Parameter Calculation:** Design a Python program to calculate the number of trainable parameters (weights and biases) for a specified CNN architecture. This involved determining the output dimensions of the convolutional and max pooling layers, calculating the flattened input size, and computing the parameters of the convolutional, hidden, and output layers.
+
+**Question 2 – CNN Implementation and Evaluation:** Adapt the instructor-provided `Simple_CNN_for_the_MNIST_Dataset.ipynb` notebook to match the required architecture, including the specified convolutional filters, padding, stride, pooling configuration, and fully connected layers. The updated model was then trained and evaluated on the MNIST dataset to measure its classification accuracy.
+
+The final implementation combines **mathematical parameter calculations with practical deep learning using Python and TensorFlow/Keras**, providing hands-on experience with CNN architecture, training, and evaluation.
+
 # Handwritten Digit Classification Using CNN
 
 A deep learning project that uses a **Convolutional Neural Network (CNN)** to recognize handwritten digits (0–9) from the MNIST dataset. Built with **Python and TensorFlow/Keras**, this project demonstrates image classification, feature extraction, neural network architecture, parameter calculations, and model evaluation.
